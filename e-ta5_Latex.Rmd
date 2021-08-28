@@ -1,0 +1,19 @@
+title: "e-TA 1: Version control with Git(Hub)"
+author: 
+  name: "Andrés Felipe Rengifo"
+  affiliation: "Universidad de los Andes " 
+output: 
+  html_document:
+    theme: simplex
+    highlight: tango
+    # code_folding: show
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+    keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE, dpi=300)
+```
+Hola a todos. En este e-ta haremos una introducción a Latex y , en especial, a Overleaf.
